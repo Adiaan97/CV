@@ -1,0 +1,31 @@
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 10%;
+}
+
+h3{
+  font: italic small-caps bold 16px/2 cursive;
+  color: #66BFBF
+}
+
+h1{
+  font: italic 5em "Fira Sans", serif;
+  color: #66BFBF
+}
+
+.heading:hover{
+  color: powderblue;
+}
+
+
+#profilePic{
+  border-radius: 100%;
+}
